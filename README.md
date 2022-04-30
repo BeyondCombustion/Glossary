@@ -3,13 +3,17 @@
 
 **A**lready **B**een **V**aped cannabis (Also known as AVB: **A**lready **V**aped **B**ud; vape poo; and duff).  It can be re-used for edibles or tinctures.  It may also be smoked - though this largely defeats the purpose of vaporizing, at least with regard to health effects.  Uses and abuses are discussed on /r/abv.
 
+## **AVB**
+
+See [ABV](https://github.com/Vaporents/Glossary/blob/main/README.md#abv).
+
 ## **DBV** 
 
 Da Buddha vaporizer.
 
 ## **Duff** 
 
-See [ABV](https://github.com/Vaporents/Glossary/README.md#abv).
+See [ABV](https://github.com/Vaporents/Glossary/blob/main/README.md#abv).
 
 ## **DV**
 
