@@ -19,6 +19,16 @@ See [ABV](https://github.com/Vaporents/Glossary/blob/main/README.md#abv).
 
 Da Vinci vaporizer. Also: DV Ascent and DV IQ.
 
+## **Enail**
+
+A combination of devices brought together are called an "Enail", as well as some of the components that make up an enail. 
+
+They include: 
+- A PID/controller (typically one of two different common, but electrically incompatable pin layouts are used for the controller)
+- A enail coil (typically one of two different common, but electrically incompatable pin layouts are used for the enail coil)
+
+#### Always verify the pin layout of the coil and controller before making a purchase or attempting use. Failure to do so may damage your coil or controller, or cause you electric shock.
+
 ## **EQ** 
 
 Extreme Q vaporizer.
@@ -99,7 +109,7 @@ Supreme vaporizer.
 
 ## **"The Wand"**
 
-A handheld induction heater based dab kit by Ispire.
+A handheld induction heater based enail by Ispire.
 
 ## **trench**
 
