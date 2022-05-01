@@ -97,7 +97,11 @@ A rigid piece of tubing used for toking from some models of vape, and generally 
 
 Supreme vaporizer.
 
-##**trench**
+## **"The Wand"**
+
+A handheld induction heater by Ispire.
+
+## **trench**
 
 Term used for the bowl of the Magic Flight Launch Box, so named because of its shape.
 
@@ -124,5 +128,9 @@ Condensed vapor that builds up in wands (and more broadly, along any part of the
 ## **whip**
 
 Flexible tubing (usually silicone or plastic - high-temperature-resistant in reputable models) attached to a wand, and used to inhale from.  It may also refer to the whip plus the wand (and perhaps mouthpiece) assembled.  Whips are only used with some vaporizers.
+
+## **WonG**
+
+Wood-on-glass adapter or stem. Used in various ways by different vapes. Can connect vapes to water pipes or dry pipes for cooling and conditioning the vapor, be used as the stem in some vapes, etc.
 
 [View All Vaporents Repositories](https://github.com/Vaporents?tab=repositories)
