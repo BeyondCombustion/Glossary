@@ -99,7 +99,7 @@ Supreme vaporizer.
 
 ## **"The Wand"**
 
-A handheld induction heater by Ispire.
+A handheld induction heater based dab kit by Ispire.
 
 ## **trench**
 
