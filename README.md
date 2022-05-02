@@ -5,7 +5,7 @@
 
 ## **AVB**
 
-See [ABV](https://github.com/Vaporents/Glossary/blob/main/README.md#abv).
+See [ABV](https://github.com/BeyondCombustion/Glossary/blob/main/README.md#abv).
 
 ## **DBV** 
 
@@ -13,7 +13,7 @@ Da Buddha vaporizer.
 
 ## **Duff** 
 
-See [ABV](https://github.com/Vaporents/Glossary/blob/main/README.md#abv).
+See [ABV](https://github.com/BeyondCombustion/Glossary/blob/main/README.md#abv).
 
 ## **DV**
 
@@ -143,4 +143,3 @@ Flexible tubing (usually silicone or plastic - high-temperature-resistant in rep
 
 Wood-on-glass adapter or stem. Used in various ways by different vapes. Can connect vapes to water pipes or dry pipes for cooling and conditioning the vapor, be used as the stem in some vapes, etc.
 
-[View All Vaporents Repositories](https://github.com/Vaporents?tab=repositories)
