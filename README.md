@@ -157,6 +157,8 @@ Wood-on-glass adapter or stem. Used in various ways by different vapes. Can conn
 
 ### [Return to BeyondCombustion.net](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
 
-### [Jump to The 'Book' and The 'List'](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
+### [Jump to 'The Book' and The 'List'](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
 
-### [Jump to BeyondCombustion's Businesses Repository](https://BeyondCombustion.net/Businesses/)
+### [Review the Glossary](https://BeyondCombustion.net/Glossery/)
+
+### [Go to The Beginners Guide](https://BeyondCombustion.net/Beginners-Start-Here/)
