@@ -1,5 +1,5 @@
 # Glossary
-#### [Click here for info on how you can contribute to BeyondCombustion.net](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
+#### [Click here for info on how you can contribute to BeyondCombustion.net](https://BeyondCombustion.net/How-To-Contribute/)
 
 ## **ABV** 
 
@@ -7,19 +7,23 @@
 
 ## **AVB**
 
-See [ABV](https://github.com/BeyondCombustion/Glossary/blob/main/README.md#abv).
+See [ABV](https://BeyondCombustion.net/Glossary/#abv).
 
 ## **DBV** 
 
 Da Buddha vaporizer.
 
+## **DHV**
+
+Dry herb vaporizer
+
 ## **Duff** 
 
-See [ABV](https://github.com/BeyondCombustion/Glossary/blob/main/README.md#abv).
+See [ABV](https://BeyondCombustion.net/Glossary/#abv).
 
 ## **DV**
 
-Da Vinci vaporizer. Also: DV Ascent and DV IQ.
+DaVinci vaporizer. Also: DV Ascent and DV IQ.
 
 ## **Enail**
 
@@ -33,11 +37,11 @@ They include:
 
 ## **EQ** 
 
-Extreme Q vaporizer.
+Arizer Extreme Q vaporizer.
 
 ## **FC** 
 
-[FuckCombustion.com](http://fuckcombustion.com) vaporizer forums.
+[FuckCombustion.com](http://fuckcombustion.com) vaporizer forum.
 
 ## **FF / FF2**
 
@@ -81,7 +85,7 @@ Magic Flight Launch Box vaporizer.
 
 MiniVap vaporizer.
 
-## on-demand vaporizer
+## **on-demand vaporizer**
 
 ## **oven**
 
@@ -99,7 +103,7 @@ Powdered Brewery Wash
 
 Sticky Brick and Sticky Brick Jr. vaporizers
 
-## session vaporizer
+## **session vaporizer**
 
 ## **SSV**
 
@@ -149,3 +153,10 @@ Flexible tubing (usually silicone or plastic - high-temperature-resistant in rep
 
 Wood-on-glass adapter or stem. Used in various ways by different vapes. Can connect vapes to water pipes or dry pipes for cooling and conditioning the vapor, be used as the stem in some vapes, etc.
 
+## Navigation
+
+### [Return to BeyondCombustion.net](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
+
+### [Jump to The 'Book' and The 'List'](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
+
+### [Jump to BeyondCombustion's Businesses Repository](https://BeyondCombustion.net/Businesses/)
