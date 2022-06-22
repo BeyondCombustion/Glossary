@@ -81,6 +81,8 @@ Magic Flight Launch Box vaporizer.
 
 MiniVap vaporizer.
 
+## on-demand vaporizer
+
 ## **oven**
 
 The herb chamber/bowl of  conduction vapes
@@ -96,6 +98,8 @@ Powdered Brewery Wash
 ## **SB / SBJ(r)**
 
 Sticky Brick and Sticky Brick Jr. vaporizers
+
+## session vaporizer
 
 ## **SSV**
 
